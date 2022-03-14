@@ -16,3 +16,24 @@ HTML5, CSS, JavaScript, Bootstrap, Sass, Webpack, Git, Data Structure, DevTools,
 Belarus State University of Indormatics and Radioelectronics
 Course Front-end (MyFreedomSchool)
 #### English - B1
+### Examples
+
+```
+function solution(str){
+   let itemsArray = str.split('');
+    let resultArray = [];
+    const length = itemsArray.length;
+    for( let i = 0; i  < length; i += 2) {
+        (length % 2 !== 0 && i === length - 1) 
+            ? resultArray.push(itemsArray[i] + '_') 
+            : resultArray.push(itemsArray[i] + itemsArray[i + 1]);
+        
+    }
+    return resultArray;
+}
+```
+
+### Projects
+[Audio Player](https://mertsanastasiya.github.io/audio-player/)
+[Memory Game](https://rolling-scopes-school.github.io/mertsanastasiya-JSFEPRESCHOOL/memoryGame/) 
+[Git](https://github.com/MertsAnastasiya/Frontend.git)
