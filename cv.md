@@ -1,4 +1,4 @@
-![Photo](/Users/Anastasiya/Documents/RsSchool/cv-test/photoCv.jpg)
+![Photo](/Users/Anastasiya/Documents/RsSchool/rsschool-cv/assets/cvPhoto.jpg)
 # Anastasiya Merts
 +375297302765
 
