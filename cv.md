@@ -35,5 +35,9 @@ function solution(str){
 
 ### Projects
 [Audio Player](https://mertsanastasiya.github.io/audio-player/)
+
+
 [Memory Game](https://rolling-scopes-school.github.io/mertsanastasiya-JSFEPRESCHOOL/memoryGame/) 
+
+
 [Git](https://github.com/MertsAnastasiya/Frontend.git)
